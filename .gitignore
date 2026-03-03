@@ -1,0 +1,13 @@
+# data
+data/
+*.csv
+# jupyter
+ipynb_checkpoints/
+# python
+_pycache_/
+*.рус
+.venv/
+venv/
+.env
+# mac
+.DS_Store
